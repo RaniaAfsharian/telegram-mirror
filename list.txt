@@ -1,5 +1,2 @@
-Spotify_Porteghali
-ProxyDotNet
-BestProxyTel1
-proxy_kafee
-ProxyMTProto
+SoSkeyNET
+ConfigX2ray
